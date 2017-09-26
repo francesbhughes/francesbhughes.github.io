@@ -1,0 +1,18 @@
+<!doctype html>
+<html>
+
+<head>
+	<title>Frances Broderick Hughes</title>
+	<meta charset="utf-8">
+	<link href="style.css" rel="stylesheet"/>
+</head>
+
+<body>
+	<h1 id="nameHeader">Frances Broderick Hughes</h1>
+	<div style="clear: both">
+		<h2 id="resume"><a href="http://www.cs.tufts.edu/~fhughe01/resume.html"> Resume </a></h2>
+		<h2 id="biography"><a href="http://www.cs.tufts.edu/~fhughe01/bio.html"> Biography </a></h2>
+	<p id="profilePic"><img src="francesCircle.jpg" alt="Photo of Frances" /></p>
+</body>
+
+</html>

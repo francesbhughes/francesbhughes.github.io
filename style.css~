@@ -1,0 +1,57 @@
+body {
+	font-family: "Cambria", Georgia, serif;
+	font-size: 16pt;
+	background-color: #FFFFFD;
+	color: #404040;
+}
+
+#nameHeader {
+	text-align: center;
+	font-size: 50pt;
+	background-color: #ECF1EF;
+	color: #838B8B;
+	margin-left: 5%;
+	margin-right: 5%; 
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+#profilePic {
+	text-align: center;
+	height: 50pt;
+	width: 50pt;
+}
+
+#resume {
+	background-color: #ECF1EF;
+	color: #838B8B;
+	font-size: 16pt;
+}
+
+#biography {
+	background-color: #ECF1EF;
+	color: #838B8B;
+	font-size: 16pt;
+}
+
+#lowerDescription {
+	font-family: "Cambria", Georgia, serif;
+	font-size: 11pt;
+	color: #404040;
+}
+
+#resumeInfo {
+	font-family: "Cambria", Georgia, serif;
+	font-size: 18pt;
+	color: #404040;
+}
+
+#resumeHeader {
+	text-decoration: underline;
+	text-decoration: 
+	text-align: center;
+}
+
+ul {
+	display: block;
+}
